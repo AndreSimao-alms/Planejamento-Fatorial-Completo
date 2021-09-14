@@ -9,3 +9,6 @@ Atualmente, estou realizando o curso de Introdução à Quimiometria no curso de
 
 ## O que a rotina gera como resultado?
 A rotina gera de maneir, quase instatânea um grupo de resultados oferecida pela tabela de resultados obtidos para 16 experimentos, por exemplo, efeitos das interações das variáveis, porcentagem dos quadrados e distribuição acumulatica de probabilidade inversa (PPF) também é gerados dois gráficos, o primeiro tipo Scatter, Efeitos x gaussiana (PPF) e o segundo tipo bar, Porcentagemn x Efeitos.
+
+## Que tipo de dados é fornecido à rotina?
+Os dados serão colados no arquivo excel 'efeitos.xlsx' na planilha 'Dados' e em seguida o usuário clicará no botão ao lado, assim, através do Macro 'efeitos' o excel irá calcular as interações das variáveis. Após isso, o arquivo já estará salvo, basta somente realizar upload no diretório da rotina e acionar a opção 'run all' para obter os resultados.
