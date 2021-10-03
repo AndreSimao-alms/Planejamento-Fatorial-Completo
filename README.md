@@ -18,9 +18,9 @@ Os dados serão colados no arquivo excel 'efeitos.xlsx' na planilha 'Dados' e em
 - Abra o arquivo "efeitos.xlsm", ative os macros, cole os resultados na planilha "Dados" e depois clique para no botão ao lado.
 - Feche o "efeitos.xlsm"
 - Abra um notebook no Colaboratory Google e faça upload dos dois arquivos e depois escreva o seguinte código na célula
-'''
-import aghata_efeito as agt
-aghata_efeito()
-'''
+<br/><br/>
+<br/>import aghata_efeito as agt<br/>
+<br/>aghata_efeito()<br/>
+<br/><br/>
 - Siga as instruções orientadas
 - Pronto! Basta baixar os seus resultados. 
